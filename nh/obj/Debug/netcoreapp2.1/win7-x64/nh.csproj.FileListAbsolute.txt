@@ -1,0 +1,17 @@
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.csproj.CoreCompileInputs.cache
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.AssemblyInfoInputs.cache
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.AssemblyInfo.cs
+F:\himachalapathireddy\servicefabric2\nh\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+F:\himachalapathireddy\servicefabric2\nh\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+F:\himachalapathireddy\servicefabric2\nh\bin\Debug\netcoreapp2.1\win7-x64\nh.exe
+F:\himachalapathireddy\servicefabric2\nh\bin\Debug\netcoreapp2.1\win7-x64\nh.deps.json
+F:\himachalapathireddy\servicefabric2\nh\bin\Debug\netcoreapp2.1\win7-x64\nh.runtimeconfig.json
+F:\himachalapathireddy\servicefabric2\nh\bin\Debug\netcoreapp2.1\win7-x64\nh.runtimeconfig.dev.json
+F:\himachalapathireddy\servicefabric2\nh\bin\Debug\netcoreapp2.1\win7-x64\nh.dll
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.csprojAssemblyReference.cache
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.RazorAssemblyInfo.cache
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.RazorAssemblyInfo.cs
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.RazorTargetAssemblyInfo.cache
+F:\himachalapathireddy\servicefabric2\nh\bin\Debug\netcoreapp2.1\win7-x64\nh.pdb
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.dll
+F:\himachalapathireddy\servicefabric2\nh\obj\Debug\netcoreapp2.1\win7-x64\nh.pdb
